@@ -90,7 +90,7 @@ width: 50%;
     align-items: center;
 }
 .about {
-    background-color: rgb(153, 73, 255);
+    background-color: rgb(13, 0, 255);
 }
 .about__title {
     text-align: center;
@@ -100,6 +100,8 @@ font-size: 48px;
 font-weight: 400;
 line-height: 48px;
 letter-spacing: 0%;
+margin-top: 0;
+padding-top: 50px;
 }
 .progresbar__title {
     color: rgb(228, 228, 228);
